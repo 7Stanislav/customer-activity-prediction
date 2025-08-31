@@ -14,7 +14,6 @@ env/
 jupyter_cache/
 
 # Data / artifacts
-*.csv
 *.tsv
 *.parquet
 *.xlsx
