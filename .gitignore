@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_cache/
+
+# Data / artifacts
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.feather
+*.joblib
+*.pkl
+*.sav
+
+# Media (например, превью для LinkedIn)
+linkedin.*
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
